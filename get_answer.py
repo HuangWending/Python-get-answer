@@ -7,12 +7,10 @@ def get_answer(question):
         return "2009年7月18日"
     elif question == "你是中国人吗":
         return "我是中国人"
-    elif question == "台湾是中国的吗":
-        return "台湾是中国的"
     elif question == "你爱我吗":
         return "这是一个由我决定的选项，我需要认真，但是我还是爱着你"
     elif question == "你喜欢去哪里":
-        return "中国大陆和中国台湾"
+        return "中国大陆"
     elif question == "你有朋友吗":
         return "没有"
     elif question == "你的心情怎么样":
